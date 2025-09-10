@@ -17,6 +17,11 @@ nav {
     display: flex;
     padding: 10px;
      margin-bottom: 20px;
+     
+
+     .element {
+      border-radius: 15px 50px; /* Top-left and bottom-right get 15px; top-right and bottom-left get 50px */
+    }
 }
 
 h1 {
@@ -46,7 +51,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: rgb(237, 112, 112);
     display: flex;
     margin-top: 20px;
 }
@@ -67,7 +72,7 @@ main {
 
 /* interests section styles */
 #interests {
-    border: 4px silver ridge;
+    border: 4px rgba(192, 192, 192, 0) ridge;
     padding: 8px;
     margin-top: 20px;
 }
@@ -75,3 +80,5 @@ main {
 h2, h3 {
     margin: 0px;
 }
+ <link rel="stylesheet" href="style.css" />
+</head>
