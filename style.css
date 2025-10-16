@@ -1,5 +1,5 @@
 body {
-    background: rgb(213, 229, 255);
+    background: rgb(255, 221, 238);
     color: rgb(45, 45, 45);
     padding: 10px;
     font-family: Arial, sans-serif;
@@ -12,7 +12,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(100, 191, 255);
+    background: rgb(224, 165, 255);
     margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -27,7 +27,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: rgb(0, 0, 0);
     flex: 1;
     margin: 0;
 }
@@ -46,12 +46,12 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: #000000;
 }
 
 /* main container area beneath menu */
 main {
-    background: rgb(112, 177, 237);
+    background: rgba(0, 0, 0, 0);
     display: flex;
     margin-top: 20px;
 }
@@ -72,7 +72,7 @@ main {
 
 /* interests section styles */
 #interests {
-    border: 4px rgba(192, 192, 192, 0) ridge;
+    border: 4px rgba(255, 253, 253, 0.588) ridge;
     padding: 8px;
     margin-top: 20px;
 }

@@ -20,11 +20,20 @@ var init = function (window) {
         ///////////////////
         
         // TODO 1 : Declare and initialize our variables
-
+         var circle;
+         var circles = [0];
 
 
         // TODO 2 : Create a function that draws a circle 
-        
+        function drawCircle() {
+drawCircle();
+  drawCircle();
+  drawCircle();
+  drawCircle();
+  drawCircle()
+        }
+           
+
 
 
         // TODO 3 : Call the drawCircle() function

@@ -28,6 +28,7 @@ $(function () {
 
     // TODO 1 - Enable the Grid
     //  toggleGrid();
+    // i took it off because it makes my game glitch
 
 // 
     // TODO 2 - Create Platforms
