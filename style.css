@@ -1,5 +1,5 @@
 body {
-    background: rgb(255, 221, 238);
+    background: rgb(255, 190, 246);
     color: rgb(45, 45, 45);
     padding: 10px;
     font-family: Arial, sans-serif;
@@ -12,7 +12,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(224, 165, 255);
+    background: rgb(255, 165, 235);
     margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -51,7 +51,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgba(0, 0, 0, 0);
+    background: rgb(255, 171, 241);
     display: flex;
     margin-top: 20px;
 }
@@ -72,7 +72,7 @@ main {
 
 /* interests section styles */
 #interests {
-    border: 4px rgba(255, 253, 253, 0.588) ridge;
+    border: 4px rgba(235, 156, 229, 0.588) ridge;
     padding: 8px;
     margin-top: 20px;
 }

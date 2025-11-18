@@ -11,7 +11,7 @@ A motion poem using random number generation and velocity applied to circles...
   - [TODO 1: Declare Variables](#todo-1-declare-variables)
   - [TODO 2: Create a function to draw a circle](#todo-2-create-a-function-to-draw-a-circle)
   - [TODO 3: Draw 5 circles!](#todo-3-draw-5-circles)
-  - [TODO 4: Move your circles](#todo-4-move-all-circles-across-the-screen)
+  - [TODO 4: Move your circles](#todo-4-move-all-circles-across-the-screen)++
   - [TODO 5: Keep your circles in the screen](#todo-5-keep-your-circles-on-the-screen)
   - [TODO 6: Loop from all sides](#todo-6-loop-from-all-sides)
   - [TODO 7: Draw 100 circles](#todo-7-draw-100-circles)
